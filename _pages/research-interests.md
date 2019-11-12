@@ -12,8 +12,8 @@ populations and communities respond and adapt to changing environments. Some hig
 ## Thermal Ecology of Prokaryotes
 
 <p float="left">
-  <img src="/images/conceptual_TPC.png" width="200" />
-  <img src="/images/Tpk_evolution.png" width="200" />
+  <img src="/images/conceptual_TPC.png" width="300" />
+  <img src="/images/Tpk_evolution.png" width="300" />
 </p>
 
 Bacteria and archaea (collectively "prokaryotes") are globally ubiquitous and may
@@ -32,14 +32,14 @@ and [Prof. Tom Bell](https://bellmicrobelab.wordpress.com "Bell Lab").
 
 Relevant papers: 
 
+  * "Community-level respiration of prokaryotic microbes may rise with global warming" (2019)  &#124; [link](https://www.nature.com/articles/s41467-019-13109-1)  &#124; [media post](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
   * [Preprint] "Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate" (2019) &#124; [link](https://www.biorxiv.org/content/10.1101/712885v1.abstract)
-  * [Preprint] "Metabolic rates of prokaryotic microbes may inevitably rise with global warming" (2019)  &#124; [link](https://www.biorxiv.org/content/10.1101/524264v1.abstract)
 
 ## Evolution in the Absence of Sex
 
 <p float="left">
-  <img src="/images/Rotaria-neptunoida.jpg" width="200" />
-  <img src="/images/Eyres2015_Fig4.png" width="200" />
+  <img src="/images/Rotaria-neptunoida.jpg" width="300" />
+  <img src="/images/Eyres2015_Fig4.png" width="300" />
 </p>
 
 Bdelloid rotifers are a bizarre group of anciently asexual microscopic animals, dubbed
