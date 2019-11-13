@@ -19,7 +19,7 @@ I am currently hoping to continue to work in microbial ecology and evolution via
 
 # Latest News
 
-2019-10-12
+2019-11-12
 New paper out in Nature Communications: ["Community-level respiration of prokaryotic microbes may rise with global warming".](https://www.nature.com/articles/s41467-019-13109-1)
 
 Associated media post: [https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
