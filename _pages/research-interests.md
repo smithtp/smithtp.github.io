@@ -32,8 +32,8 @@ and [Prof. Tom Bell](https://bellmicrobelab.wordpress.com "Bell Lab").
 
 Relevant papers: 
 
-  * "Community-level respiration of prokaryotic microbes may rise with global warming" (2019)  &#124; [link](https://www.nature.com/articles/s41467-019-13109-1)  &#124; [media post](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
-  * [Preprint] "Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate" (2019) &#124; [link](https://www.biorxiv.org/content/10.1101/712885v1.abstract)
+  * "Community-level respiration of prokaryotic microbes may rise with global warming" (2019), Smith *et. al.*  &#124; [link](https://www.nature.com/articles/s41467-019-13109-1)  &#124; [media post](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
+  * [Preprint] "Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate" (2019), Kontopoulos *et. al.* &#124; [link](https://www.biorxiv.org/content/10.1101/712885v1.abstract)
 
 ## Evolution in the Absence of Sex
 
@@ -53,6 +53,6 @@ identified via transcriptomics) to the genome assembly in order to confirm their
 This was part of my MRes project in Prof. Tim Barraclough's group - [barralab](http://barralab.bio.ic.ac.uk/).
 
 Relevant papers: 
-  * "Comparative genomics of bdelloid rotifers: Insights from desiccating and nondesiccating species" (2018) &#124; [link](https://doi.org/10.1371/journal.pbio.2004830) &#124; [media post](https://www.imperial.ac.uk/news/185867/we-still-dont-know-strange-celibate/)
-  * "Horizontal gene transfer in bdelloid rotifers is ancient, ongoing and more frequent in species from desiccating habitats" (2015) &#124; [link](http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-015-0202-9)
+  * "Comparative genomics of bdelloid rotifers: Insights from desiccating and nondesiccating species" (2018), Nowell *et. al.* &#124; [link](https://doi.org/10.1371/journal.pbio.2004830) &#124; [media post](https://www.imperial.ac.uk/news/185867/we-still-dont-know-strange-celibate/)
+  * "Horizontal gene transfer in bdelloid rotifers is ancient, ongoing and more frequent in species from desiccating habitats" (2015), Eyres *et. al.* &#124; [link](http://bmcbiol.biomedcentral.com/articles/10.1186/s12915-015-0202-9)
 
