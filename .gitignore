@@ -1,2 +1,12 @@
+# ignore _site directory for local builds
 _site/
 
+# ignore some specific files
+images/dimitris.jpg
+images/dimitris.png
+
+images/samraat.jpg
+images/samraat_circ.png
+
+images/TBell.jpg
+images/TBell_circ.png
