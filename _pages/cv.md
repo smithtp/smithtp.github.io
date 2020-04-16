@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-2019 - Current: Postdoctoral research associate, Imperial College London
+2020 - Current: Postdoctoral research associate, Imperial College London
 
 2015 - 2019: PhD in Biological Sciences, Imperial College London
 
