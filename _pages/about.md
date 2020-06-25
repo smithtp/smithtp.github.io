@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research associate, broadly interested in ecology and evolution in the context of environmental change. I'm currently based in 
-[Professor Tom Bell's lab](https://bellmicrobelab.wordpress.com "Bell Lab") at Imperial College London, where we are investigating the impacts of
-chemical stressors on microbes and microbial commmunities.
+I am a postdoctoral research associate, broadly interested in ecology and evolution in the context of environmental change. I'm currently working with 
+[Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") at Imperial College London, where we are investigating the role of environmental factors
+in COVID-19 transmission rates.
 
 # Latest News
 
