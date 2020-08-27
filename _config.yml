@@ -154,7 +154,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+# TS: removed kramdown in favour of CommonMarkGhPages for the expandable boxes
+# markdown: kramdown
+markdown: CommonMarkGhPages
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
