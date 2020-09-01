@@ -7,7 +7,10 @@ redirect_from:
 ---
 
 My research combines a variety of techniques, from laboratory experiments to bioinformatics and mathematical modelling, to understand how organisms,
-populations and communities respond and adapt to changing environments. Some highlights from past and ongoing projects are shown below.
+populations and communities respond and adapt to changing environments. Much of my work also uses these data as a basis for predictions of how ecosystem 
+functioning and carbon storage may vary due to global climate change. In particular my research has been focused on the effects of temperature on the carbon
+dynamics of microbial populations, however most recently I have been investigating the effects of climate on COVID-19 transmission rates. Some highlights 
+from past and ongoing projects are shown below.
 
 ## Main Research Areas (click to read more!)
 
