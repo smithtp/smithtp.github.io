@@ -16,14 +16,24 @@ from past and ongoing projects are shown below.
 
 ### Thermal Ecology and Evolution
 
-<!--
 <details>
   <summary>Climate as a driver of COVID-19 transmission rates</summary>
+  
+ <p float="left">
+  <img src="/images/heatmap_R0.png" width="300" />
+</p>
 
-Words go here
+Given its similar structure to other viruses that display seasonal dynamics, it has been suggested that SARS-CoV-2 (the causative agent of COVID-19)
+should display similar responses to the environment, with transmission rates peaking in winter. We are investigating this potential
+seasonality, by incorporating environmental parameters into epidemiological models of viral transmission. Our initial findings suggest a role for
+the environment, but only when human mobility is not restricted through policy or behaviour.
+
+This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
+
+Papers:
+ * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith  Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
 
 </details>
--->
 
 <details>
   <summary>Effects of temperature on microbial metabolic rates</summary>
