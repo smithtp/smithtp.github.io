@@ -12,19 +12,16 @@ functioning and carbon storage may vary due to global climate change. In particu
 dynamics of microbial populations, however most recently I have been investigating the effects of climate on COVID-19 transmission rates. Some highlights 
 from past and ongoing projects are shown below.
 
-## Main Research Areas (click to read more!)
+## Main Research Areas
 
-### Thermal Ecology and Evolution
-
-<details>
-  <summary>Climate as a driver of COVID-19 transmission rates</summary>
+### Climate as a driver of COVID-19 transmission rates
   
- <p float="left">
+<p float="left">
   <img src="/images/heatmap_R0.png" width="300" />
 </p>
 
 Given its similar structure to other viruses that display seasonal dynamics, it has been suggested that SARS-CoV-2 (the causative agent of COVID-19)
-should display similar responses to the environment, with transmission rates peaking in winter. We are investigating this potential
+should display similar responses to environmental factors, with transmission rates peaking in winter. We are investigating this potential
 seasonality, by incorporating environmental parameters into epidemiological models of viral transmission. Our initial findings suggest a role for
 the environment, but only when human mobility is not restricted through policy or behaviour.
 
@@ -33,10 +30,9 @@ This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and fund
 Papers:
  * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith  Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
 
-</details>
 
-<details>
-  <summary>Effects of temperature on microbial metabolic rates</summary>
+### Microbial Thermal Ecology and Evolution
+
   
 <p float="left">
   <img src="/images/conceptual_TPC.png" width="300" />
@@ -46,7 +42,7 @@ Papers:
 Bacteria and archaea (collectively "prokaryotes") are globally ubiquitous and may
 comprise in the region of half of the Earth's total biomass. Understanding how these
 diverse micro-organisms are affected by temperature is therefore key to our understanding
-of the impacts of climate change.
+of the impacts of climate change on ecosystem functioning.
   
 My work on this broad topic can be roughly divided into two main aspects. Firstly,
 investigating how the evolution and adaptation of microbial metabolic rates is
@@ -61,12 +57,10 @@ Relevant papers:
 
   * "Community-level respiration of prokaryotic microbes may rise with global warming" (2019), Smith *et. al.*  &#124; [link](https://www.nature.com/articles/s41467-019-13109-1)  &#124; [press release](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
   * [Preprint] "Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate" (2019), Kontopoulos *et. al.* &#124; [link](https://www.biorxiv.org/content/10.1101/712885v1.abstract)
+  * [preprint] "Systematic variation in the temperature dependence of bacterial carbon use efficiency" (2020), Smith *et. al.*  &#124; [link](https://www.biorxiv.org/content/10.1101/2020.09.14.296095v1)
 
 
-</details>
-
-
-## Other Projects
+## Other Projects (click for details)
 
 <!--
 <details>
