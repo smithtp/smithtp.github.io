@@ -28,7 +28,7 @@ the environment, but only when human mobility is not restricted through policy o
 This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
 
 Papers:
- * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith  Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
+ * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
 
 
 ### Microbial Thermal Ecology and Evolution
