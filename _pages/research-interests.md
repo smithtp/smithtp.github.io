@@ -29,6 +29,7 @@ This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and fund
 
 Papers:
  * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
+ * [Preprint] "Environmental drivers of SARS-CoV-2 lineage B.1.1.7 transmission intensity" (2021) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2021.03.09.21253242)
 
 
 ### Microbial Thermal Ecology and Evolution
