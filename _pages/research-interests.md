@@ -28,7 +28,7 @@ the environment, but only when human mobility is not restricted through policy o
 This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
 
 Papers:
- * [Preprint] "Environment influences SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2020) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2020.09.12.20193250)
+ * "Temperature and population density influence SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2021) Smith *et. al.*  &#124; [link](https://www.pnas.org/content/118/25/e2019284118) &#124; [press release](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/)
  * [Preprint] "Environmental drivers of SARS-CoV-2 lineage B.1.1.7 transmission intensity" (2021) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2021.03.09.21253242)
 
 

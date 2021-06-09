@@ -6,6 +6,18 @@ redirect_from:
   - /news
 ---
 
+
+### 2021-06-08
+
+Our first COVID paper is out in PNAS: ["Temperature and population density influence SARS-CoV-2 transmission in the absence of nonpharmaceutical interventions."](https://www.pnas.org/content/118/25/e2019284118)
+
+We found that temperature and population density can have a significant impact on the transmission rate of COVID-19, but only when non-pharmaceutical policy interventions are not in place. 
+When measures are in place to restrict human movement, environmental effects are negated.
+
+Press-release here: ["https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/"](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/)
+
+---
+
 ### 2021-04-19
 
 The final piece left over from my PhD work is now available as a preprint: ["Latent functional diversity may accelerate microbial community responses to environmental fluctuations."](https://www.biorxiv.org/content/10.1101/2021.04.14.439774v1)
@@ -13,10 +25,6 @@ The final piece left over from my PhD work is now available as a preprint: ["Lat
 We performed a species sorting experiment to uncover the latent diversity in microbial thermal fitness present in soil. We find that strains with different life history traits switch on under different thermal conditons.
 In particular, we see a difference in the temperatures where r- and K- specialist taxa are obtained from. This shows that microbial community function is likely to respond rapidly to changes in the environment, 
 via species sorting acting upon the broad diversity present within communities.
-
-<p float="left">
-  <img src="/images/Tpk_evolution.png" width="300" />
-</p>
 
 ---
 
