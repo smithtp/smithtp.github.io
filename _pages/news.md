@@ -6,6 +6,14 @@ redirect_from:
   - /news
 ---
 
+### 2021-07-09
+
+Our bacterial carbon use efficiency paper has been published in Ecology Letters: ["Systematic variation in the temperature dependence of bacterial carbon used efficiency."](https://onlinelibrary.wiley.com/doi/10.1111/ele.13840)
+
+We found that bacterial CUE tends to respond positively or be invariant to temperature. This is contrary to how microbial CUE is often paramaterised in biogeochemical models.
+
+---
+
 
 ### 2021-06-08
 

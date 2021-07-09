@@ -16,6 +16,13 @@ in COVID-19 transmission rates.
 
 ---
 
+2021-07-09:
+Our bacterial carbon use efficiency paper has been published in Ecology Letters: ["Systematic variation in the temperature dependence of bacterial carbon used efficiency."](https://onlinelibrary.wiley.com/doi/10.1111/ele.13840)
+
+We found that bacterial CUE tends to respond positively or be invariant to temperature. This is contrary to how microbial CUE is often paramaterised in biogeochemical models.
+
+---
+
 2021-06-08:
 Our first COVID paper is out in PNAS: ["Temperature and population density influence SARS-CoV-2 transmission in the absence of nonpharmaceutical interventions."](https://www.pnas.org/content/118/25/e2019284118)
 

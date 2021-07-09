@@ -58,7 +58,7 @@ Relevant papers:
 
   * "Community-level respiration of prokaryotic microbes may rise with global warming" (2019), Smith *et. al.*  &#124; [link](https://www.nature.com/articles/s41467-019-13109-1)  &#124; [press release](https://www.imperial.ac.uk/news/193867/bacteria-contribute-more-climate-change-planet/)
   * "Adaptive evolution explains the present-day distribution of the thermal sensitivity of population growth rate" (2020), Kontopoulos *et. al.* &#124; [link](https://doi.org/10.1371/journal.pbio.3000894)
-  * [preprint] "Systematic variation in the temperature dependence of bacterial carbon use efficiency" (2020), Smith *et. al.*  &#124; [link](https://www.biorxiv.org/content/10.1101/2020.09.14.296095v1)
+  * "Systematic variation in the temperature dependence of bacterial carbon use efficiency" (2021), Smith *et. al.*  &#124; [link](https://onlinelibrary.wiley.com/doi/10.1111/ele.13840)
   * [preprint] "Latent functional diversity may accelerate microbial community responses to environmental fluctuations" (2021), Smith *et. al.*  &#124; [link](https://www.biorxiv.org/content/10.1101/2021.04.14.439774v1)
 
 
