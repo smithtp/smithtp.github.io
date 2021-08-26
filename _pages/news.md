@@ -6,6 +6,12 @@ redirect_from:
   - /news
 ---
 
+### 2021-07-20:
+
+Our COVID PNAS paper was referred to in a *Guardian* article about weather and COVID transmission: [https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid](https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid)
+
+---
+
 ### 2021-07-09
 
 Our bacterial carbon use efficiency paper has been published in Ecology Letters: ["Systematic variation in the temperature dependence of bacterial carbon used efficiency."](https://onlinelibrary.wiley.com/doi/10.1111/ele.13840)
