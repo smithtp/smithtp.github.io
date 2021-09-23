@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="http://docs.google.com/viewer?url=http://smithtp.github.io/files/TomSmith_2021_website.pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>
+<embed src= "https://smithtp.github.io/files/TomSmith_2021_website.pdf" height= "1000", width = "1000">
