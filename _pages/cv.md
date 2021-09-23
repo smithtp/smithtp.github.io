@@ -9,14 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-2020 - Current: Postdoctoral research associate, Imperial College London
-
-2015 - 2019: PhD in Biological Sciences, Imperial College London
-
-2014 - 2015: MRes Computational Methods in Ecology and Evolution, Imperial College London
-
-2012 - 2014: Research Technician in Molecular Phylogenetics, Imperial College London
-
-2010 - 2012: Research Technician, Ontogeny of Haematopoietic Stem Cells, University of Edinburgh
-
-2006 - 2010: BSc Biological Sciences, University of Edinburgh
+<iframe src="http://docs.google.com/viewer?url=http://smithtp.github.io/TomSmith_2021_website.pdf&embedded=true" height="1000" width = "1000" style = "max-width:100vw" frameborder="0"></iframe>
