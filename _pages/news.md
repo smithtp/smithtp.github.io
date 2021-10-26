@@ -6,6 +6,12 @@ redirect_from:
   - /news
 ---
 
+### 2021-10-06:
+
+We've published a pre-print about our new data project "AREAdata" to share spatially averaged climate datasets: ["AREAdata: a worldwide climate dataset averaged across spatial units at different scales through time"](https://www.biorxiv.org/content/10.1101/2021.10.05.463057)
+
+---
+
 ### 2021-07-20:
 
 Our COVID PNAS paper was referred to in a *Guardian* article about weather and COVID transmission: [https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid](https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid)

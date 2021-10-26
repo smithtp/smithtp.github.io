@@ -28,7 +28,7 @@ the environment, but only when human mobility is not restricted through policy o
 This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
 
 Papers:
- * "Temperature and population density influence SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2021) Smith *et. al.*  &#124; [link](https://www.pnas.org/content/118/25/e2019284118) &#124; [press release](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/)
+ * "Temperature and population density influence SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2021) Smith *et. al.*  &#124; [link](https://www.pnas.org/content/118/25/e2019284118) &#124; [press release](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/) &#124; [*Guardian* article](https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid)
  * [Preprint] "Environmental drivers of SARS-CoV-2 lineage B.1.1.7 transmission intensity" (2021) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2021.03.09.21253242)
 
 
