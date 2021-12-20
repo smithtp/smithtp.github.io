@@ -6,6 +6,16 @@ redirect_from:
   - /news
 ---
 
+### 2021-12-15:
+
+Had a great time at BES Ecology Across Borders 2021, lots of engaging talks and interesting people to talk to. Here's me presenting our COVID work in the Parasites and Pathogens session:
+
+<p float="left">
+  <img src="/images/bes-2.jpeg" width="300" />
+</p>
+
+---
+
 ### 2021-10-06:
 
 We've published a pre-print about our new data project "AREAdata" to share spatially averaged climate datasets: ["AREAdata: a worldwide climate dataset averaged across spatial units at different scales through time"](https://www.biorxiv.org/content/10.1101/2021.10.05.463057)

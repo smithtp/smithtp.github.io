@@ -8,29 +8,21 @@ redirect_from:
 
 My research combines a variety of techniques, from laboratory experiments to bioinformatics and mathematical modelling, to understand how organisms,
 populations and communities respond and adapt to changing environments. Much of my work also uses these data as a basis for predictions of how ecosystem 
-functioning and carbon storage may vary due to global climate change. In particular my research has been focused on the effects of temperature on the carbon
-dynamics of microbial populations, however most recently I have been investigating the effects of climate on COVID-19 transmission rates. Some highlights 
-from past and ongoing projects are shown below.
+functioning and carbon storage may vary due to global climate change. In particular my research has been focused on the effects of stressors on the functioning and dynamics of microbial populations, however recently I have also investigated the effects of climate on COVID-19 transmission rates. Some highlights from past and ongoing projects are shown below.
 
 ## Main Research Areas
 
-### Climate as a driver of COVID-19 transmission rates
-  
+### Effects of Multiple Chemical Stressors on Microbial Populations
+
 <p float="left">
-  <img src="/images/heatmap_R0.png" width="300" />
+  <img src="/images/WP3Fig3.png" width="300" />
 </p>
 
-Given its similar structure to other viruses that display seasonal dynamics, it has been suggested that SARS-CoV-2 (the causative agent of COVID-19)
-should display similar responses to environmental factors, with transmission rates peaking in winter. We are investigating this potential
-seasonality, by incorporating environmental parameters into epidemiological models of viral transmission. Our initial findings suggest a role for
-the environment, but only when human mobility is not restricted through policy or behaviour.
+Freshwater ecosystems are under an increasing array of threats, especially from a wide range of new and emerging chemical stressors. These ecosystems are underpinned by microbes, which perform key ecosystem functions and services. Therefore, understanding the impacts of chemical stressors on freshwater microbes is key to understanding their impacts at the ecosystem level. We are testing the impacts of chemical stressors in freshwater mesocosms, however this is labour intensive and limited in the number of chemical combinations that can be tested. 
 
-This work is with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
+By contrast, the limits of chemical testing in the lab can be orders of magnitude higher than in the field. Here in the lab, we are testing the effects of a large array of replicated mixtures of chemicals on microbes and microbial communities, to provide a vast database of first responses to chemicals to answer fundamental questions about interactions among chemical stressors.
 
-Papers:
- * "Temperature and population density influence SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2021) Smith *et. al.*  &#124; [link](https://www.pnas.org/content/118/25/e2019284118) &#124; [press release](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/) &#124; [*Guardian* article](https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid)
- * [Preprint] "Environmental drivers of SARS-CoV-2 lineage B.1.1.7 transmission intensity" (2021) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2021.03.09.21253242)
-
+This work is with [Prof. Tom Bell](https://bellmicrobelab.wordpress.com "Bell Lab") and [Prof. Guy Woodward](https://www.imperial.ac.uk/people/guy.woodward "Guy Woodward").
 
 ### Microbial Thermal Ecology and Evolution
 
@@ -70,6 +62,28 @@ Relevant papers:
 
 </details>
 -->
+
+<details>
+  <summary>Climate as a driver of SARS-CoV-2 transmission rates</summary>
+
+<p float="left">
+  <img src="/images/heatmap_R0.png" width="300" />
+</p>
+
+Given its similar structure to other viruses that display seasonal dynamics, it has been suggested that SARS-CoV-2 (the causative agent of COVID-19)
+should display similar responses to environmental factors, with transmission rates peaking in winter. We investigated this potential
+seasonality, by incorporating environmental parameters into epidemiological models of viral transmission. Our findings suggest a role for
+the environment, but only when human mobility is not restricted through policy or behaviour.
+
+This work was with [Dr. Will Pearse](http://pearselab.com/ "Pearse Lab") and funded by a NERC grant.
+
+Papers:
+ * "Temperature and population density influence SARS-CoV-2 transmission in the absence of non-pharmaceutical interventions" (2021) Smith *et. al.*  &#124; [link](https://www.pnas.org/content/118/25/e2019284118) &#124; [press release](https://www.imperial.ac.uk/news/223233/warmer-temperatures-lessen-covid-19-spread-control/) &#124; [*Guardian* article](https://www.theguardian.com/world/2021/jul/20/does-warm-weather-mean-you-are-less-likely-to-catch-covid)
+ * [Preprint] "Environmental drivers of SARS-CoV-2 lineage B.1.1.7 transmission intensity" (2021) Smith *et. al.*  &#124; [link](https://doi.org/10.1101/2021.03.09.21253242)
+
+</details>
+
+
 
 <details>
   <summary>Evolution in the Absence of Sex</summary>
