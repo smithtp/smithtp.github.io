@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src= "https://smithtp.github.io/files/TomSmith_2021_website.pdf" height= "1000" width = "1000">
+<embed src= "https://smithtp.github.io/files/TomSmith_CurrentUpdate.pdf" height= "1000" width = "1000">

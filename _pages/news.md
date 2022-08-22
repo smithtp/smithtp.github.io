@@ -6,6 +6,15 @@ redirect_from:
   - /news
 ---
 
+
+### 2022-07-26:
+
+Bugs, Birds and Beasts day at Silwood: we set up a microbial ecology stand and had the kids drawing their interpretations of what a microbe might look like!
+
+<p float="left">
+  <img src="/images/20220726_165126.jpg" width="300" />
+</p>
+
 ### 2021-12-15:
 
 Had a great time at BES Ecology Across Borders 2021, lots of engaging talks and interesting people to talk to. Here's me presenting our COVID work in the Parasites and Pathogens session:
