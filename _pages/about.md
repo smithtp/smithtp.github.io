@@ -18,6 +18,5 @@ I am a postdoctoral research associate, broadly interested in microbial ecology 
 2022-07-26: Bugs, Birds and Beasts day at Silwood: we set up a microbial ecology stand and had the kids drawing their interpretations of what a microbe might look like!
 
 <p float="left">
-  <img src="./images/20220726_165126.jpg" width="300" />
+  <img src="https://smithtp.github.io/images/20220726_165126.jpg" width="300" />
 </p>
-
